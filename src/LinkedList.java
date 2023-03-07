@@ -53,6 +53,10 @@ public class LinkedList {
 
 
     }
+    public void remove(int index){
+
+
+    }
 }
 
 
